@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # -*- coding: utf-8 -*-
-
+# based on article in c´t special 2016
 import getpass
 from hashlib import pbkdf2_hmac
 
